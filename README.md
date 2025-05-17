@@ -7,7 +7,7 @@ LAB 2 Demonstrate various data pre-processing techniques for a given dataset
 LAB 3 Implement Linear and Multi-Linear Regression algorithm using appropriate dataset
 
 
-LAB 3 Build Logistic Regression Model for a given dataset
+LAB 4 Build Logistic Regression Model for a given dataset
 
 LAB 4  Use an appropriate data set for building the decision tree (ID3) and apply this knowledge to classify a new sample.
 
